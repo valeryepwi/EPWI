@@ -1,2 +1,2 @@
 # EPWI
-somsol
+comsol
